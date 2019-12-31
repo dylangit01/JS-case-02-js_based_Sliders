@@ -1,0 +1,63 @@
+/*button {*/
+/*    background: #a2d5f2;*/
+/*}*/
+
+.indicator {
+    border-radius: 50%;
+}
+
+/*div > span {*/
+/*    background: #a2d5f2;*/
+/*}*/
+
+.btnClass {
+    margin: 20px;
+    border: 30px solid #a2d5f2;
+    padding: 20px 30px 20px 30px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.btnClass:hover {
+    font-style: italic;
+    font-size: 20px;
+    cursor: grab;
+}
+
+.dot {
+    margin: 10px;
+    outline: 0;
+    height: 15px;
+    width: 15px;
+    background-color: #f2f4f6;
+    border-radius: 50%;
+    display: inline-block;
+}
+
+.highlightDot {
+    background-color: #bbb;
+}
+
+.pausebtn {
+    border: none;
+    outline: none;
+    background-color: transparent;
+}
+
+.centerdiv {
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+

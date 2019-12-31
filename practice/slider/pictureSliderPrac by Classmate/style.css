@@ -1,0 +1,41 @@
+.curr{
+    border: coral 2px solid;
+}
+
+.dot:hover{
+    background-color: cadetblue;
+    color: yellowgreen;
+}
+.dot{
+    padding: 3px;
+    margin: 5px;
+    border-radius: 50%;
+}
+
+#startBt{
+    width: 60px;
+    margin:20px;
+    padding: 10px;
+    border-radius: 30%;
+}
+
+img{
+    color: wheat;
+    margin-top: 5%;
+}
+
+.container{
+    background-color: #383a3d;
+    text-align: center;
+    padding: 30px;
+    width: 60%;
+    height: 50%;
+    margin: auto;
+    margin-top: 10%;
+    border-radius: 25px;
+}
+
+body{
+    text-align: center;
+    background-color: black;
+}
